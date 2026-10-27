@@ -1,0 +1,10 @@
+# Achievements Sandbox 🚀
+
+A dedicated sandbox repository for testing CI/CD workflows, automated scripts, Git hooks, and unlocking GitHub profile achievements.
+
+## Unlocked Achievements:
+- [x] Quickdraw
+- [x] YOLO
+- [x] Pull Shark
+- [ ] Pair Extraordinaire
+- [ ] Galaxy Brain
