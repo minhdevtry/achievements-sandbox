@@ -10,3 +10,4 @@ A dedicated sandbox repository for testing CI/CD workflows, automated scripts, G
 - [ ] Galaxy Brain
 - Iteration 1: Testing co-authored commit
 - Pair programming with octocat
+- Iteration 3: Pair programming test
